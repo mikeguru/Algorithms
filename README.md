@@ -1,1 +1,3 @@
-# algorithms-1
+# algorithms
+
+ALL RIGHT RESERVED
